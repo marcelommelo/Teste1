@@ -1,0 +1,31 @@
+[33mcommit 42a2eb987401c19b67597baa871f49c7113b9f50[m[33m ([m[1;36mHEAD -> [m[1;32mnova_funcao[m[33m)[m
+Author: Marcelo Melo <marcelo.melo@yahoo.com.br>
+Date:   Wed Jul 21 01:42:32 2021 -0300
+
+    Revert "Alteração 3 (update) e Alteração 4"
+    
+    This reverts commit 320ac1b305e9dad296108087d780a5f131d63bd2.
+
+[33mcommit 320ac1b305e9dad296108087d780a5f131d63bd2[m
+Author: Marcelo Melo <marcelo.melo@yahoo.com.br>
+Date:   Wed Jul 21 01:39:49 2021 -0300
+
+    Alteração 3 (update) e Alteração 4
+
+[33mcommit 90fb42a6195922f9433efac0aeeb703563bda05a[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Marcelo Melo <marcelo.melo@yahoo.com.br>
+Date:   Wed Jul 21 00:28:16 2021 -0300
+
+    Só alteração 2
+
+[33mcommit 48fb8b69b8cf8e3b3ce13ce2515dde39b1eec9c9[m
+Author: Marcelo Melo <marcelo.melo@yahoo.com.br>
+Date:   Wed Jul 21 00:20:50 2021 -0300
+
+    Só alteração 3
+
+[33mcommit f0fe2ece30ab5f109096df61ba5fe2c94b5cab97[m
+Author: Marcelo Melo <marcelo.melo@yahoo.com.br>
+Date:   Mon Jul 19 18:04:54 2021 -0300
+
+    Modificação 1
